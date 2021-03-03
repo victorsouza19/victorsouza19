@@ -1,16 +1,18 @@
-### Hi there 👋
+```markdown
 
-<!--
-**victorsouza19/victorsouza19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Victor Souza
 
-Here are some ideas to get you started:
+## Olá pessoal 👋
+Sou um curioso e estudante de Tecnologia da Informação.
+No momento trabalho como suporte técnico nível I e II e pretendo ser desenvolvedor futuramente :computer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ :rocket:  &nbsp; Estou trabalhando na **EiTV - Entretenimento e Interatividade para TV Digital**
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando HTML, CSS, Javascript e React
+ <br/> :blush: &nbsp; Se você está começando na programação WEB posso te ajudar.
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, e Typescript
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias e games, apesar de não ter tempo pra jogar :joy:
+ <br/> :email: &nbsp; Entre em contato comigo: https://www.linkedin.com/in/victorsouza19/
+| 
+(mailto:victor.cristofalo@hotmail.com)
+
+```

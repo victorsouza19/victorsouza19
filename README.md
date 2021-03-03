@@ -1,6 +1,6 @@
 ```markdown
 
-# Victor Souza
+## Victor Souza
 
 ## Olá pessoal 👋
 Sou um curioso e estudante de Tecnologia da Informação.

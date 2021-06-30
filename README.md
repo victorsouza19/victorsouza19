@@ -1,7 +1,3 @@
-```markdown
-
-## Victor Souza
-
 ## Olá pessoal 👋
 Sou um curioso e estudante de Tecnologia da Informação.
 No momento trabalho como Analista de Sistemas Junior e pretendo ser desenvolvedor futuramente 💻
@@ -12,4 +8,4 @@ No momento trabalho como Analista de Sistemas Junior e pretendo ser desenvolvedo
  <br/> 💬 Sobre mim: Curto tecnologias e games, apesar de não ter tempo pra jogar 😂
  <br/> ✉️ Entre em contato comigo: https://www.linkedin.com/in/victorsouza19/ | victor.cristofalo@hotmail.com
  
-```
+ **Colaboração > Competição** 💭

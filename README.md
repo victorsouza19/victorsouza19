@@ -2,7 +2,7 @@
 
 
 <p>Eu sou o Victor, um curioso e estudante de Tecnologia da Informação. <br>
-No momento trabalho como Analista de Sistemas Junior e pretendo ser desenvolvedor futuramente 💻 </p>
+No momento trabalho como Analista de Sistemas Junior e contribuindo em pequenos desenvolvimentos e testes 💻 </p>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Victor Souza">
 

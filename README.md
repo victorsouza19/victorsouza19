@@ -20,5 +20,8 @@ No momento trabalho como Analista de Sistemas Junior e contribuindo em pequenos 
  **Colaboração > Competição** 💭
 
 
+[![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victorsouza19&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 

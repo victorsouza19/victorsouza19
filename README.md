@@ -7,7 +7,7 @@ No momento trabalho como Analista de Sistemas Junior e contribuo em pequenos des
 
 
  🚀 Estou trabalhando na **EiTV - Entretenimento e Interatividade para TV Digital**
- <br/> 💜 Buscando colaborar com projetos em Front-end usando HTML, CSS, Javascript, NodeJS e React
+ <br/> 💜 Buscando colaborar com projetos Full Stack usando HTML, CSS, Javascript, NodeJS(principalmente) e React
  <br/> 😊 Se você está começando na programação WEB posso te ajudar. 
  <br/> 💌  Fique a vontade para entrar em contato comigo:
  

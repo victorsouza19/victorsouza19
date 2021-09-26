@@ -11,9 +11,10 @@ No momento trabalho como Analista de Sistemas Junior e contribuo em pequenos des
  <br/> 😊 Se você está começando na programação WEB posso te ajudar. 
  <br/> 💌  Fique a vontade para entrar em contato comigo:
  
-  <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/victorsouza19/"/>
+  
  <p align="left">
-  <a href="https://www.linkedin.com/in/victorsouza19/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/victorsouza19/" target="_blank" alt="Linkedin">
+   <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/victorsouza19/"/>
   </a>
 </p>  
  

@@ -1,4 +1,4 @@
-## Olá, meu nome é Victor 👋
+## Olá, meu nome é Victor 👋 <img src="https://komarev.com/ghpvc/?username=victorsouza19&color=blueviolet&label=Visualizações+do+perfil&style=flat-square" align="right"/>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Victor Souza">
 
 <p>Desenvolvedor curioso e estudante de Tecnologia da Informação.<br>
@@ -18,7 +18,7 @@ No momento trabalho como Analista de Sistemas Junior e contribuo em pequenos des
   </a>
 </p>  
  
- **Dê o seu melhor** 💭
+ **Dê o seu melhor** 💭 
  
  <div style="display: "flex" ">
   <a href="https://github.com/victorsouza19">

@@ -2,14 +2,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Victor Souza">
 
 <p>Desenvolvedor curioso e estudante de Tecnologia da Informação.<br>
-No momento trabalho como Analista de Sistemas Junior e contribuo em pequenos desenvolvimentos e testes 💻 </p>
+No momento trabalho como Analista de Sistemas Júnior e contribuo na área de testes e alguns desenvolvimentos 💻 </p>
 
 
 
- 🚀 Estou trabalhando na **EiTV - Entretenimento e Interatividade para TV Digital**
- <br/> 💜 Buscando colaborar com projetos Full Stack usando HTML, CSS, Javascript, NodeJS(principalmente) e React
- <br/> 😊 Se você está começando na programação WEB posso te ajudar. 
- <br/> 💌  Fique a vontade para entrar em contato comigo:
+ 🚀 Trabalhando na **EiTV - Entretenimento e Interatividade para TV Digital**
+ <br/> 💜 Buscando colaborar com projetos Full Stack usando HTML, CSS, Javascript, NodeJS(principalmente) e Rest API.
+ <br/> 💌 Precisa de ajuda? Fique a vontade para entrar em contato comigo:
  
   
  <p align="left">
@@ -18,7 +17,7 @@ No momento trabalho como Analista de Sistemas Junior e contribuo em pequenos des
   </a>
 </p>  
  
- **Dê o seu melhor** 💭 
+ **Just study** 💭 
  
  <div style="display: "flex" ">
   <a href="https://github.com/victorsouza19">

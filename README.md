@@ -13,8 +13,12 @@ No momento trabalho como Analista de Sistemas Júnior e contribuo na área de te
   
  <p align="left">
   <a href="https://www.linkedin.com/in/victorsouza19/" target="_blank" alt="Linkedin">
-   <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/victorsouza19/"/>
+    <img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=8A2BE2"/>
   </a>
+ <a href="mailto:victor.cristofalo@hotmail.com" target="_blank" alt="Linkedin">
+    <img src="https://img.shields.io/badge/Email-1C1C1C?style=for-the-badge&logo=gmail&logoColor=8A2BE2"/>
+  </a>
+ 
 </p>  
  
  **Just study** 💭 

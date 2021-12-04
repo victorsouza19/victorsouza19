@@ -7,7 +7,7 @@ No momento trabalho como Analista de Sistemas Júnior e contribuo na área de te
 
 
  🚀 Trabalhando na **EiTV - Entretenimento e Interatividade para TV Digital**
- <br/> 💜 Buscando colaborar com projetos Full Stack usando HTML, CSS, Javascript, NodeJS(principalmente) e Rest API.
+ <br/> 💜 Buscando colaborar com projetos Full Stack usando HTML, CSS, Javascript, Vue.js, Node.js(principalmente) e Rest API.
  <br/> 💌 Precisa de ajuda? Fique a vontade para entrar em contato comigo:
  
   

@@ -1,13 +1,13 @@
 ## Olá, meu nome é Victor 👋 <img src="https://komarev.com/ghpvc/?username=victorsouza19&color=blueviolet&label=Visualizações+do+perfil&style=flat-square" align="right"/>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Victor Souza">
 
-<p>Desenvolvedor curioso e estudante de Tecnologia da Informação.<br>
-No momento trabalho como Analista de Sistemas Júnior e contribuo na área de testes e alguns desenvolvimentos 💻 </p>
+<p>Desenvolvedor curioso, formado em Gestão de Tecnologia da Informação.<br>
+Atualmente atuando como desenvolvedor de software com foco em aplicações Android (Java) 💻 </p>
 
 
 
  🚀 Trabalhando na **EiTV - Entretenimento e Interatividade para TV Digital**
- <br/> 💜 Buscando colaborar com projetos Full Stack usando HTML, CSS, Javascript, Vue.js, Node.js(principalmente) e Rest API.
+ <br/> 💜 Buscando colaborar com projetos Full Stack usando HTML, CSS, Javascript, Java(Android), Vue.js, Node.js, e Rest API. 
  <br/> 💌 Precisa de ajuda? Fique a vontade para entrar em contato comigo:
  
   

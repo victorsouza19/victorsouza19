@@ -2,12 +2,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Victor Souza">
 
 <p>Desenvolvedor curioso, formado em Gestão de Tecnologia da Informação.<br>
-Atualmente atuando como desenvolvedor de software com foco em aplicações Android (Java) 💻 </p>
+Atualmente atuando como Desenvolvedor de Software Pleno com foco em aplicações Android e AndroidTV(Java) 💻 </p>
 
 
 
  🚀 Trabalhando na **EiTV - Entretenimento e Interatividade para TV Digital**
- <br/> 💜 Buscando colaborar com projetos Full Stack usando HTML, CSS, Javascript, Java(Android), Vue.js, Node.js, e Rest API. 
+ <br/> 💜 Buscando colaborar com projetos Full Stack usando HTML, CSS, Javascript, Java(Android / AndroidTV), Vue.js, Node.js, e Rest API. 
  <br/> 💌 Precisa de ajuda? Fique a vontade para entrar em contato comigo:
  
   
